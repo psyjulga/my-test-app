@@ -1,6 +1,7 @@
 import Navbar from './Navbar'
-import Catslist from './catslist'
+import Catslist from './Catslist'
 import Footer from './Footer'
+import './App.css'
 
 function App() {
 	return (
